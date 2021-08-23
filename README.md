@@ -11,7 +11,7 @@
 * List all tasks
 
 * Add a new task
-    - date input is using the LGoodDatePicker library
+    - date input is from the [LGoodDatePicker](https://github.com/LGoodDatePicker/LGoodDatePicker) library
 
 * Remove a task
 
